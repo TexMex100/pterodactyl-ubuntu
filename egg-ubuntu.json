@@ -2,7 +2,7 @@
     "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
     "meta": {
         "version": "PTDL_v2",
-        "update_url": "https://github.com/TexMex100/pterodactyl-ubuntu/blob/main/egg-ubuntu.json"
+        "update_url": null
     },
     "exported_at": "2022-08-05T23:42:32+02:00",
     "name": "Ubuntu",
