@@ -7,7 +7,7 @@
     "exported_at": "2022-08-06T00:56:49+02:00",
     "name": "Ubuntu",
     "author": "mexvaneijk1@gmail.com",
-    "description": "A Ubuntu server to run Shell files on",
+    "description": "It Looks like a Ubuntu server but only to run Shell files on",
     "features": null,
     "docker_images": {
         "quay.io\/parkervcp\/pterodactyl-images:ubuntu": "quay.io\/parkervcp\/pterodactyl-images:ubuntu"
