@@ -4,10 +4,10 @@
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2022-08-05T23:42:32+02:00",
+    "exported_at": "2022-08-06T00:56:49+02:00",
     "name": "Ubuntu",
     "author": "mexvaneijk1@gmail.com",
-    "description": null,
+    "description": "A Ubuntu server to run Shell files on",
     "features": null,
     "docker_images": {
         "quay.io\/parkervcp\/pterodactyl-images:ubuntu": "quay.io\/parkervcp\/pterodactyl-images:ubuntu"
