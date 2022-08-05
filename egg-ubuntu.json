@@ -1,0 +1,52 @@
+{
+    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
+    "meta": {
+        "version": "PTDL_v2",
+        "update_url": null
+    },
+    "exported_at": "2022-08-05T23:42:32+02:00",
+    "name": "Ubuntu",
+    "author": "mexvaneijk1@gmail.com",
+    "description": null,
+    "features": null,
+    "docker_images": {
+        "quay.io\/parkervcp\/pterodactyl-images:ubuntu": "quay.io\/parkervcp\/pterodactyl-images:ubuntu"
+    },
+    "file_denylist": [],
+    "startup": "{{STARTUP_FILE}}",
+    "config": {
+        "files": "{}",
+        "startup": "{\r\n    \"done\": \"guide\"\r\n}",
+        "logs": "{\r\n    \"custom\": false,\r\n    \"location\": \"logs\/latest.log\"\r\n}",
+        "stop": "^C"
+    },
+    "scripts": {
+        "installation": {
+            "script": "apt update\r\ncd \/mnt\/server\r\n\r\necho '#!\/bin\/bash' > main.sh\r\necho '##Write you script here' >> main.sh\r\nchmod u+x main.sh\r\necho done",
+            "container": "debian:buster-slim",
+            "entrypoint": "bash"
+        }
+    },
+    "variables": [
+        {
+            "name": "Startup Type",
+            "description": "normal,rotate,update",
+            "env_variable": "STARTUP_TYPE",
+            "default_value": "normal",
+            "user_viewable": true,
+            "user_editable": true,
+            "rules": "required|string|in:normal,rotate,update",
+            "field_type": "text"
+        },
+        {
+            "name": "Startup File",
+            "description": "",
+            "env_variable": "STARTUP_FILE",
+            "default_value": ".\/main.sh",
+            "user_viewable": true,
+            "user_editable": true,
+            "rules": "required|string",
+            "field_type": "text"
+        }
+    ]
+}
