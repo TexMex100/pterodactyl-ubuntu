@@ -9,7 +9,7 @@ So you can run you scripts in a Shell file.
 
 ### Disclaimer
  - Do not copy or shanger youself as a owner.
- - This Pterodactyl egg is not filly out jet, the beta will come soon.
+ - This Pterodactyl egg is not fully out jet, updates are still comming
 
 ## Updates
  | Date | Update |
