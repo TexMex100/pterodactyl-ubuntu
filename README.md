@@ -10,3 +10,13 @@ So you can run you scripts in a Shell file.
 ### Disclaimer
  - Do not copy or shanger youself as a owner.
  - This Pterodactyl egg is not filly out jet, the beta will come soon.
+
+## Updates
+ | Date | Update |
+ | ------ | ------ |
+ | N/A | [plugins/dropbox/README.md][PlDb] |
+ 
+ ### Oncomming Updates
+ | Expected | Update |
+ | ------ | ------ |
+ | 8/8/2022 | Possible to install packages |
