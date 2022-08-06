@@ -14,7 +14,7 @@ So you can run you scripts in a Shell file.
 ## Updates
  | Date | Update |
  | ------ | ------ |
- | N/A | [plugins/dropbox/README.md][PlDb] |
+ | N/A | N/A |
  
  ### Oncomming Updates
  | Expected | Update |
