@@ -8,7 +8,7 @@ So you can run you scripts in a Shell file.
  - NO sudo possible.
 
 ### Disclaimer
- - Do not copy or shanger youself as a owner.
+ - Do not copy or change youself as a owner.
  - This Pterodactyl egg is not fully out jet, updates are still comming
 
 ## Updates
