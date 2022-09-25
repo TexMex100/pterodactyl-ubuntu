@@ -19,7 +19,7 @@ So you can run you scripts in a Shell file.
  ### Oncomming Updates
  | Expected | Update |
  | ------ | ------ |
- | 8/8/2022 | Possible to install packages |
+ | 12/31/2022 | Possible to install packages |
 
 
 <div align="center">
