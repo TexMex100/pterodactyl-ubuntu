@@ -19,7 +19,7 @@ So you can run you scripts in a Shell file.
  ### Oncomming Updates
  | Expected | Update |
  | ------ | ------ |
- | 31/12/2022 | Possible to install packages |
+ | 31/12/2022 | Able to run engine's like node.js and python |
 
 # Note
 > It micht be possible that some thing would not work **we try to make the most thing possible**. [Read more](https://pterodactyl.io/project/introduction.html).
