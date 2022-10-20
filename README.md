@@ -8,7 +8,7 @@ So you can run you scripts in a Shell file.
  - NO sudo possible.
 
 ### Disclaimer
- - Do not copy or change youself as a owner.
+ - Everything is not working completely, its only able tu run .sh file you can't run other scripts that are getting started in the .sh file
  - This Pterodactyl egg is not fully out jet, updates are still comming
 
 ## Updates
