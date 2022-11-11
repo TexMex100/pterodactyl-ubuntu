@@ -23,3 +23,4 @@ So you can run you scripts in a Shell file.
 
 # Note
 > It micht be possible that some thing would not work **we try to make the most thing possible**. [Read more](https://pterodactyl.io/project/introduction.html).
+> Please note that if you wanna run a node.js server or python server you NEED to change the start file in the **section**
